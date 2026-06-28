@@ -1,12 +1,12 @@
 <h1>AyurSutra — Panchakarma Patient & Therapy Management</h1>
 <h2><i>“Modern Efficiency, Ancient Healing.”</i></h2>
 
-<h2>Created by:----</h2>
+<h2>Created by:--ANKIT BALYAN</h2>
 
-<ul>
+<!-- <ul>
   <li><strong>**Ankit Balyan**</strong> </li>
   
-</ul>
+</ul> -->
 
 <h3>📘 Overview</h3>
 <p>
